@@ -1,3 +1,5 @@
+#include "SNLpch.h"
+
 // https://github.com/CedricGuillemet/ImGuizmo
 // v1.92.5 WIP
 //
